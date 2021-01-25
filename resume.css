@@ -1,0 +1,33 @@
+.bold {
+    font-weight: bold !important;
+    color: black !important;
+}
+
+.card, .table {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boldd {
+    font-weight: bold !important;
+    color: black !important;
+}
+
+.bold:hover {
+    font-weight: bolder !important;
+}
+
+.item:hover {
+    background-color:  rgb(238, 229, 229);
+    font-weight: bolder;
+
+}
+
+
+.item {
+    cursor: pointer;
+}
+
+.liItem {
+    border-bottom: 2px solid rgb(218, 214, 214);
+}
+
